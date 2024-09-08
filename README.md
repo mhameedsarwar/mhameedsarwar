@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 Hi , I’m Muhammad Hameed Sarwar<br>💻  Currently working as a Principal Consultant /Team lead at <a href="" target="_blank">Systems Limited</a><br>
 
+---
+[![](https://visitcount.itsvg.in/api?id=mhameedsarwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhameedsarwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhameedsarwar) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Hameed) 
@@ -13,7 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhameedsarwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=mhameedsarwar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
