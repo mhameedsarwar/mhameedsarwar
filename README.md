@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me:
-💡 Hi , I’m Front-End Developer with over 10 years of experience in designing and developing dynamic and responsive web applications<br>
+💡 Hi , I’m Front-End Developer with over 10 years of experience in designing and developing dynamic and responsive web applications.<br>
 
 💻  Currently working as a Principal Consultant /Team lead at <a href="https://systemsltd.com" target="_blank">Systems Limited</a><br>
 
